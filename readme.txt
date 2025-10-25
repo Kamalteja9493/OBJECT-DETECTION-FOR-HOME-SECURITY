@@ -1,8 +1,5 @@
-# Object Detection for Home Security - Final Project (CSE 573)
+# Object Detection for Home Security 
 
-##Team members:
-- Venkata Mani Sai Praneeth Chidella (UBID: vchidell)
-- Reddy Kamal Teja Thota (UBID: reddykam)
 
 ---
 
